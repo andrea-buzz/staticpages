@@ -1,6 +1,6 @@
 ---
 title: "Lorem Ipsum"
-layout: archive
+layout: single
 permalink: /lorem-ipsum/
 ---
 
